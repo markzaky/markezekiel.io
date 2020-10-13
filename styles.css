@@ -93,12 +93,13 @@ header div ul li{
     text-align: left;
 }
 #more{
-    padding: 13px;
+    font-family: "Kalam";
+    padding: 10px;
     font-size: 20px;
     background-color: transparent;
     color: white;
-    border-style: groove;
-    border-radius: 10px;
+    border-style: ridge;
+    border-radius: 8px;
 }
 #more:hover{
     background-image: linear-gradient( to bottom right, rgb(127, 228, 241),rgb(223, 222, 222));
